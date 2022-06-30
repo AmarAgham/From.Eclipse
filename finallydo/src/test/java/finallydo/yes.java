@@ -19,7 +19,7 @@ public class yes {
 			}
 		
 			 else {
-				 System.out.println("You get both");
+				 System.out.println("You both");
 			 }
 			 }
 		
