@@ -15,7 +15,7 @@ public class yes {
 		}
 		
 			else if (cash > 10 && cash < 50) {
-			 System.out.println("you get only pen");
+			 System.out.println("you Get only pen");
 			}
 		
 			 else {
